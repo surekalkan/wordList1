@@ -23,7 +23,7 @@ Aşağıdakilerin yüklü olduğundan emin olun:
 1. Depoyu klonlayın:
 
    ```bash
-   git clone https://github.com
+   git clone https://github.com/surekalkan/wordList1.git
 
 2. Gerekli kütüphaneleri yükleyin:
 
