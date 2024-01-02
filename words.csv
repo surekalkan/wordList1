@@ -1,0 +1,119 @@
+word,meaning,level
+keyboard,klavye,easy
+mouse,fare,easy
+monitor,monitör,easy
+printer,yazıcı,easy
+file,dosya,easy
+folder,klasör,easy
+desktop,masaüstü,easy
+icon,ikon,easy
+software,yazılım,easy
+hardware,donanım,easy
+example,örnek,easy
+computer,bilgisayar,medium
+hello,merhaba,easy
+world,dünya,medium
+python,piton,medium
+programming,programlama,hard
+language,dil,medium
+machine,makina,medium
+learning,öğrenme,medium
+artificial,yapay,hard
+intelligence,zeka,hard
+algorithm,algoritma,hard
+data,veri,medium
+science,bilim,medium
+information,bilgi,medium
+database,veritabanı,hard
+query,sorgu,medium
+table,tablo,medium
+row,satır,medium
+column,sütun,medium
+index,indeks,hard
+value,değer,medium
+function,fonksiyon,medium
+argument,argüman,medium
+parameter,parametre,medium
+variable,değişken,medium
+constant,sabit,medium
+type,tip,medium
+class,sınıf,medium
+object,nesne,medium
+inheritance,kalıtım,hard
+polymorphism,çok biçimlilik,hard
+dependency,bağımlılık,medium
+virtual environment,sanal ortam,hard
+IDE,entegre geliştirme ortamı,hard
+syntax,sözdizimi,medium
+runtime,çalışma zamanı,medium
+code review,kod inceleme,medium
+bug,hata,medium
+patch,yama,medium
+merge,birleştirme,medium
+commit,işlem,medium
+pull request,çekme isteği,medium
+agile,çevik,medium
+scrum,scrum,hard
+sprint,sprint,medium
+user story,kullanıcı hikayesi,medium
+backend,arka uç,medium
+frontend,ön uç,medium
+full stack,tam yığın,hard
+responsive design,duyarlı tasarım,hard
+RESTful,REST uyumlu,hard
+endpoint,uç nokta,medium
+authentication,kimlik doğrulama,hard
+authorization,yetkilendirme,hard
+encryption,şifreleme,hard
+asynchronous,asenkron,medium
+callback,geri çağrı,medium
+lambda function,lambda fonksiyonu,hard
+containerization,konteynerleme,hard
+Docker,Docker,hard
+API documentation,API belgeleri,hard
+continuous integration,sürekli entegrasyon,hard
+continuous deployment,sürekli dağıtım,hard
+ORM,nesne ilişkisel eşleme,hard
+scalability,ölçeklenebilirlik,hard
+concurrency,eşzamanlılık,hard
+thread,iplik,medium
+mutex,karşılıklı dışlama,hard
+race condition,yarış koşulu,hard
+debugger,hata ayıklama aracı,hard
+profiling,profil oluşturma,hard
+optimization,optimizasyon,hard
+complexity,karmaşıklık,hard
+big-O notation,büyük O notasyonu,hard
+dependency injection,bağımlılık enjeksiyonu,hard
+MVC,model-görünüm-denetleyici,hard
+API gateway,API geçidi,hard
+microservices,mikroservisler,hard
+serverless,sunucusuz,hard
+cloud computing,bulut bilişim,hard
+DevOps,geliştirme ve operasyon,hard
+agile manifesto,çevik bildiri,hard
+refactoring,yeniden yapılandırma,hard
+code smell,kötü koku,hard
+continuous testing,sürekli test,hard
+unit test coverage,birim test kapsamı,hard
+linting,kod analizi,hard
+codebase,kod tabanı,hard
+changelog,değişiklik günlüğü,hard
+framework agnostic,çerçeve bağımsız,hard
+dependency management,bağımlılık yönetimi,hard
+server-side rendering,sunucu taraflı renderleme,hard
+frontend framework,ön uç çerçevesi,hard
+polymorphism,çok biçimlilik,hard
+encapsulation,kapsülleme,medium
+abstraction,soyutlama,medium
+algorithm,algoritma,hard
+data structure,veri yapısı,hard
+recursion,özyineleme,hard
+stack,yığın,medium
+queue,kuyruk,medium
+linked list,bağlı liste,hard
+binary tree,ikili ağaç,hard
+sorting,sıralama,medium
+searching,arama,medium
+hash table,karma tablosu,hard
+exception,istisna,medium
